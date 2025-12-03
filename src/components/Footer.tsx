@@ -1,4 +1,4 @@
-import { Mail, Phone, Instagram, Linkedin, Twitter, Heart } from 'lucide-react';
+import { Mail, Phone, Instagram, Linkedin, Twitter,  } from 'lucide-react';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -107,7 +107,7 @@ export default function Footer() {
 
         <div className="border-t border-white/20 pt-8 text-center">
           <p className="text-white/60 flex items-center justify-center gap-2">
-            Made with <Heart size={16} className="fill-red-400 text-red-400" /> by OyeeGRFX © {currentYear}
+            Made by OyeeGRFX © {currentYear}
           </p>
         </div>
       </div>
