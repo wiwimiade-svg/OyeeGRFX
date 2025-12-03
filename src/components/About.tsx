@@ -11,7 +11,7 @@ export default function About() {
               <div className="relative bg-gradient-to-br from-[#D4A574] via-[#C9997A] to-[#B88B70] rounded-3xl overflow-hidden p-8">
                 <div className="w-full aspect-square rounded-full overflow-hidden bg-white/20 backdrop-blur-sm">
                   <img
-                    src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800"
+                    src="https://res.cloudinary.com/dtd4ehd1s/image/upload/v1764802076/WhatsApp_Image_2025-12-03_at_23.42.55_cn4umy.jpg"
                     alt="Kehinde"
                     className="w-full h-full object-cover"
                   />
